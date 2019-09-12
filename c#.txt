@@ -37,7 +37,7 @@ params, option, named parameteres
 static constructor
 type Alias
 yield return
-delegate first version c# 1
+delegate version c# 2 (first way for Anonymous Method)
 multicast delegate
 desconstruct tuple and whatever
 local functions
