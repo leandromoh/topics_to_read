@@ -1,0 +1,43 @@
+Delegates (action, func)
+Reflection
+preprocessor directives
+goto
+method/class constraints
+override, abstratic, new
+pointer
+unsigned integer types
+implicit & explicit cast
+ref, out, in parameters
+destructor
+extension method
+regex
+partial application vs currying vs closure
+linq
+anonymous objects
+var vs dynamic vs object
+foreach behind the hood
+using behind the hood
+array intialize syntax https://github.com/leandromoh/uteis/blob/master/C%23/Estudos/array%20initializer%20syntax.cs
+custom-collection-initializers
+https://github.com/leandromoh/uteis/blob/master/C%23/Estudos/ExpressionEvaluator.cs
+attributes
+partial
+async wait / tasks / plinq
+generic
+chaining constructor
+user-Defined Conversions (Using Conversion Operators).cs
+const vs readonly
+event
+explicit interface implementations
+indexer property
+params, option, named parameteres
+static constructor
+type Alias
+yield return
+delegate first version c# 3
+multicast delegate
+desconstruct tuple and whatever
+local functions
+
+
+https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/
