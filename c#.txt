@@ -1,3 +1,6 @@
+
+https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md
+
 Delegates (action, func)
 Reflection
 preprocessor directives
@@ -34,7 +37,7 @@ params, option, named parameteres
 static constructor
 type Alias
 yield return
-delegate first version c# 3
+delegate first version c# 1
 multicast delegate
 desconstruct tuple and whatever
 local functions
