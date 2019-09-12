@@ -1,0 +1,51 @@
+======= expression tree
+
+https://blogs.msdn.microsoft.com/charlie/2008/01/31/expression-tree-basics/
+https://docs.microsoft.com/pt-br/dotnet/api/system.linq.expressions.blockexpression?view=netframework-4.8
+
+======= docker
+
+https://docs.docker.com/get-started/
+
+======= programador melhor
+
+https://www.youtube.com/watch?v=oMvwcrPITHM
+
+======= injecao de dependencia
+
+ServiceLocator
+ServiceProvider 
+Containers de injeção de dependencia
+
+======= repository
+
+https://programmingwithmosh.com/net/common-mistakes-with-the-repository-pattern/
+
+======= CQRS
+
+https://martinfowler.com/bliki/CQRS.html
+
+============= ExceptionsForFlowControl
+
+http://wiki.c2.com/?DontUseExceptionsForFlowControl
+
+======= xunit
+
+https://www.programmingwithwolfgang.com/xunit-getting-started/
+https://xunit.net/docs/shared-context
+https://xunit.net/docs/comparisons
+https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/
+
+======= model-binding
+
+https://docs.microsoft.com/pt-br/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api
+==============================================
+automapper
+MediatR
+fluentAssertions
+FluentValidation.AspNetCore
+
+================ indice sql
+
+https://www.youtube.com/watch?v=NI9wYuVIYcA (editado) 
+https://www.youtube.com/watch?v=clrtT_4WBAw (editado) 
