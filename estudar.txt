@@ -37,7 +37,7 @@ https://xunit.net/docs/comparisons
 https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/
 
 ======= model-binding
-
+https://stackoverflow.com/questions/35903448/web-api-parameter-binding-snake-case-to-camelcase
 https://docs.microsoft.com/pt-br/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api
 ==============================================
 automapper
