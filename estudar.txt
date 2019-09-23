@@ -10,6 +10,7 @@ https://docs.docker.com/get-started/
 ======= programador melhor
 
 https://www.youtube.com/watch?v=oMvwcrPITHM
+https://stackify.com/premature-optimization-evil/
 
 ======= injecao de dependencia
 
@@ -17,9 +18,19 @@ ServiceLocator
 ServiceProvider 
 Containers de injeção de dependencia
 
+https://doc.sitecore.com/developers/91/sitecore-experience-manager/en/dependency-injection.html
+https://adamcod.es/2013/11/25/service-locator-vs-dependency-injection-container.html
+https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.shell.serviceprovider?view=visualstudiosdk-2017
+https://medium.com/@ivorobioff/dependency-injection-vs-service-locator-2bb8484c2e20
+
 ======= repository
 
 https://programmingwithmosh.com/net/common-mistakes-with-the-repository-pattern/
+
+======= git
+
+https://www.udemy.com/course/git-e-github/
+https://brorlandi.github.io/git-desfazendo-commits
 
 ======= CQRS
 
@@ -37,15 +48,38 @@ https://xunit.net/docs/comparisons
 https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/
 
 ======= model-binding
+fromquery vs frombody vs fromroute vs FromUri
 https://stackoverflow.com/questions/35903448/web-api-parameter-binding-snake-case-to-camelcase
 https://docs.microsoft.com/pt-br/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api
 ==============================================
 automapper
 MediatR
 fluentAssertions
-FluentValidation.AspNetCore
+
+========================== mixin
+
+https://en.wikipedia.org/wiki/Mixin
+https://www.tutorialspoint.com/ruby/ruby_modules.htm
+
+======================== http
+
+https://restfulapi.net/http-methods/
+https://docs.microsoft.com/pt-br/aspnet/core/web-api/jsonpatch?view=aspnetcore-2.2
+https://tools.ietf.org/html/rfc6902
+https://stackoverflow.com/questions/50215825/web-api-2-implementing-a-patch
+
+
+=================== FluentValidation.AspNetCore
+
+https://fluentvalidation.net/aspnet#clientside-validation
+https://fluentassertions.com/tips/
 
 ================ indice sql
 
 https://www.youtube.com/watch?v=NI9wYuVIYcA (editado) 
 https://www.youtube.com/watch?v=clrtT_4WBAw (editado) 
+
+================ aleatorios 
+
+https://docs.microsoft.com/pt-br/aspnet/core/web-api/jsonpatch?view=aspnetcore-2.2
+https://link.medium.com/T7qjXhfcXZ
