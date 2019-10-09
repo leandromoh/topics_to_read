@@ -1,0 +1,23 @@
+FLUENT VALIDATION
+A popular .NET library for building strongly-typed validation rules.
+https://github.com/JeremySkinner/FluentValidation
+
+fluentassertions
+Fluent API for asserting the results of unit tests 
+https://github.com/fluentassertions/fluentassertions
+
+autoMapper
+A convention-based object-object mapper in .NET. 
+https://github.com/AutoMapper/AutoMapper
+
+Moq
+Moq is intended to be simple to use, strongly typed (no magic strings!, and therefore full compiler-verified and refactoring-friendly) and minimalistic (while still fully functional!).
+https://github.com/moq/moq4
+
+MoreLINQ
+Extensions to LINQ to Objects
+https://github.com/morelinq/MoreLINQ
+
+AutoFixture
+AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
+https://github.com/AutoFixture/AutoFixture

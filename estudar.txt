@@ -1,7 +1,24 @@
+
+
+borat maio
+david koresh
+
+======= patterns
+
+Specification pattern
+
 ======= expression tree
 
 https://blogs.msdn.microsoft.com/charlie/2008/01/31/expression-tree-basics/
 https://docs.microsoft.com/pt-br/dotnet/api/system.linq.expressions.blockexpression?view=netframework-4.8
+
+======= repository vs dao
+
+1 https://stackoverflow.com/questions/8550124/what-is-the-difference-between-dao-and-repository-patterns
+1 https://pt.stackoverflow.com/a/114683
+
+1 https://www.devmedia.com.br/forum/dao-ou-repository-qual-usar/582418
+1 https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/
 
 ======= docker
 
@@ -18,6 +35,7 @@ ServiceLocator
 ServiceProvider 
 Containers de injeção de dependencia
 
+http://hamidmosalla.com/2018/06/30/dependency-injection-conditional-resolving-of-multiple-implementation-of-interface/
 https://doc.sitecore.com/developers/91/sitecore-experience-manager/en/dependency-injection.html
 https://adamcod.es/2013/11/25/service-locator-vs-dependency-injection-container.html
 https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.shell.serviceprovider?view=visualstudiosdk-2017
@@ -39,6 +57,14 @@ https://martinfowler.com/bliki/CQRS.html
 ============= ExceptionsForFlowControl
 
 http://wiki.c2.com/?DontUseExceptionsForFlowControl
+
+============= c#
+
+https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/
+
+============= F#
+
+https://fsharpforfunandprofit.com/posts/fvsc-sum-of-squares/
 
 ======= xunit
 
