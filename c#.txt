@@ -1,17 +1,101 @@
 
 https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md
+https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/
+
+basic types
+ int, long, double, float, decimal
+ char, bool, string, dateTime, 
+ uint, ulong, byte
+
+basic operators
+ + 
+ - 
+ * 
+ /
+ ==
+ !=
+ &&
+ ||
+ !
+ =
+ ??
+ .?
+ ? : (ternary operator)
+ is 
+
+decision structures
+ if
+ else
+ switch case
+
+loops structures
+ while
+ do while
+ for
+ foreach
+ break
+ continue
+
+error handle structures
+ exceptions
+ try catch
+ try catch finally
+ try finally
+
+OOP abstraction
+ classes
+  constructor & destructor 
+ static classes
+  static constructor
+ interfaces
+ abstract classes
+ partial class
+
+OOP encapsulation
+ access modifiers
+ fields vs properties
+ auto implemented properties
+
+OOP inheritance
+  override, abstratic, virtual, new modifiers
+
+OOP polimorphism
+ Subtype polymorphism is also known as runtime polymorphism.
+ Ad-hoc polymorphism is also known as overloading.
+ Coercion is also known as (implicit or explicit) casting.
+ Parametric polymorphism is also known as compile-time polymorphism ( generics )
+  covariance invariance
+  method/class constraints
+
+cast 
+ as
+ is (type pattern)
+ explict cast
+
+variable declarations
+ var vs dynamic vs object
+ const vs readonly
+ anonymous objects
+
+parameters
+ ref, out, in
+ params
+ optional
+ named
 
 methods
- Anonymous functions https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/statements-expressions-operators/anonymous-functions
- Delegates already defined on framework (action, func, predicate) https://stackoverflow.com/questions/4317479/func-vs-action-vs-predicate
+ extension method
+ anonymous functions https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/statements-expressions-operators/anonymous-functions
+ delegates already defined on framework (action, func, predicate) https://stackoverflow.com/questions/4317479/func-vs-action-vs-predicate
  multicast delegate
  events
  local functions (c# 7)
 
-object declarations
- var vs dynamic vs object
- anonymous objects
- const vs readonly
+collections
+ array, list, queue, stack, dictionary, hashset
+ IEnumerable
+ linq
+ yield return
 
 low level
  goto
@@ -22,34 +106,12 @@ low level
  foreach behind the hood
  using behind the hood
 
-parameters
- ref, out, in
- params
- optional
- named
-
-sequences
- yield return
- linq
-
-parallel programmin
+parallel programming
  tasks vs thread
  async wait 
  plinq
  concurrent collections (ConcurrentBag, ConcurrentStack, ConcurrentQueue, etc)
 
-generics
- covariance invariance
- method/class constraints
-
-OOP
- fields vs properties
- override, abstratic, virtual, new modifiers
- classes
- interfaces
- abstract classes
- partial class
- 
 meta-programming
  reflection
  expression tree
@@ -59,36 +121,12 @@ user-defined
  user-Defined Conversions (implicit & explicit cast)
  Operator Overloading 
 
-
-
-
-unsigned integer types
-
-
-extension method
-partial application vs currying vs closure
-
-
-
-
-array intialize syntax https://github.com/leandromoh/uteis/blob/master/C%23/Estudos/array%20initializer%20syntax.cs
-custom-collection-initializers
-https://github.com/leandromoh/uteis/blob/master/C%23/Estudos/ExpressionEvaluator.cs
-
-
-
-
-
-
-explicit interface implementations
-
-chaining constructor
-indexer property
-static constructor
-type Alias
-
-desconstruct tuple and whatever
-
-
-
-https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/
+others
+ partial application vs currying vs closure
+ array intialize syntax https://github.com/leandromoh/uteis/blob/master/C%23/Estudos/array%20initializer%20syntax.cs
+ custom-collection-initializers
+ explicit interface implementations
+ chaining constructor
+ indexer property
+ type Alias
+ desconstruction for tuples and all
