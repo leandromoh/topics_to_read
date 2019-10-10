@@ -19,7 +19,7 @@ basic operators
  !
  =
  ??
- .?
+ ?.
  ? : (ternary operator)
  is 
 
@@ -36,20 +36,25 @@ loops structures
  break
  continue
 
-error handle structures
+error handling structures
  exceptions
  try catch
  try catch finally
  try finally
+ (Re)throwing an exception https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/throw
+ catch when https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/when
+
+enum
+namespace
 
 OOP abstraction
- classes
+ class
   constructor & destructor 
+ abstract class
+ partial class
  static classes
   static constructor
  interfaces
- abstract classes
- partial class
 
 OOP encapsulation
  access modifiers
@@ -57,14 +62,14 @@ OOP encapsulation
  auto implemented properties
 
 OOP inheritance
-  override, abstratic, virtual, new modifiers
+  override, virtual, new (modifiers)
 
 OOP polimorphism
  Subtype polymorphism is also known as runtime polymorphism.
  Ad-hoc polymorphism is also known as overloading.
  Coercion is also known as (implicit or explicit) casting.
  Parametric polymorphism is also known as compile-time polymorphism ( generics )
-  covariance invariance
+  covariance, invariance, invariance
   method/class constraints
 
 cast 
@@ -89,15 +94,18 @@ methods
  delegates already defined on framework (action, func, predicate) https://stackoverflow.com/questions/4317479/func-vs-action-vs-predicate
  multicast delegate
  events
+ async lambda expression
  local functions (c# 7)
+ expression body
 
 collections
  array, list, queue, stack, dictionary, hashset
  IEnumerable
- linq
+ linq (query syntax vs method syntax)
  yield return
 
 low level
+ using/IDisposable
  goto
  pointers
  unsafe code
@@ -105,24 +113,40 @@ low level
  preprocessor directives
  foreach behind the hood
  using behind the hood
+ box and unbox
+ checked/unchecked block (int.MaxValue + 1 ?)
+ stack vs heap
+ valueTypes vs referenceTypes
+ 
 
 parallel programming
+ lock
  tasks vs thread
  async wait 
  plinq
  concurrent collections (ConcurrentBag, ConcurrentStack, ConcurrentQueue, etc)
 
-meta-programming
- reflection
+meta programming
+ reflection (classes Type, PropertyInfo, FieldInfo, MemberInfo, MethodInfo, etc)
+ typeof vs GetType
  expression tree
  attributes
 
 user-defined
- user-Defined Conversions (implicit & explicit cast)
- Operator Overloading 
+ user defined conversions (implicit & explicit cast)
+ operator overloading
+
+functional programming
+ functions as first class citizens
+ high order functions
+ lambda expression
+ closure
+ transparency referential
+ side-effects
+ pure functions
+ partial application vs currying vs uncurrying
 
 others
- partial application vs currying vs closure
  array intialize syntax https://github.com/leandromoh/uteis/blob/master/C%23/Estudos/array%20initializer%20syntax.cs
  custom-collection-initializers
  explicit interface implementations
