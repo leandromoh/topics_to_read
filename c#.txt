@@ -62,9 +62,11 @@ OOP encapsulation
  auto implemented properties
 
 OOP inheritance
+  single inheritance vs multiple inheritance
+  multiple inheritance vs composition
   override, virtual, new (modifiers)
 
-OOP polimorphism
+OOP polimorphism (and its 4 types)
  Subtype polymorphism is also known as runtime polymorphism.
  Ad-hoc polymorphism is also known as overloading.
  Coercion is also known as (implicit or explicit) casting.
@@ -103,9 +105,11 @@ collections
  IEnumerable
  linq (query syntax vs method syntax)
  yield return
+ yield break
 
 low level
- using/IDisposable
+ IDisposable for unmanaged resources
+ using statement for IDisposable
  goto
  pointers
  unsafe code
