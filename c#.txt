@@ -50,25 +50,31 @@ namespace
 OOP abstraction
  class
   constructor & destructor 
+   chaining constructor
  abstract class
  partial class
- static classes
+ static class
   static constructor
  interfaces
 
 OOP encapsulation
  access modifiers
+ field
+ properties
  fields vs properties
  auto implemented properties
+ indexer property
 
 OOP inheritance
+  multiple vs single inheritance
+  multiple inheritance vs composition
   override, virtual, new (modifiers)
 
 OOP polimorphism
  Subtype polymorphism is also known as runtime polymorphism.
  Ad-hoc polymorphism is also known as overloading.
  Coercion is also known as (implicit or explicit) casting.
- Parametric polymorphism is also known as compile-time polymorphism ( generics )
+ Parametric polymorphism is also known as compile-time polymorphism ( c# generics )
   covariance, invariance, invariance
   method/class constraints
 
@@ -109,7 +115,7 @@ low level
  goto
  pointers
  unsafe code
- destructor/Finalizers 
+ finalizers 
  preprocessor directives
  foreach behind the hood
  using behind the hood
@@ -131,6 +137,7 @@ meta programming
  typeof vs GetType
  expression tree
  attributes
+ roslyn api https://docs.microsoft.com/pt-br/dotnet/csharp/roslyn-sdk/
 
 user-defined
  user defined conversions (implicit & explicit cast)
@@ -150,7 +157,5 @@ others
  array intialize syntax https://github.com/leandromoh/uteis/blob/master/C%23/Estudos/array%20initializer%20syntax.cs
  custom-collection-initializers
  explicit interface implementations
- chaining constructor
- indexer property
  type Alias
  desconstruction for tuples and all
