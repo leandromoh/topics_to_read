@@ -1,3 +1,4 @@
+https://pt.stackoverflow.com/questions/49831/como-realmente-entender-streams
 
 https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md
 https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/keywords/

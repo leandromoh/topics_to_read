@@ -1,7 +1,27 @@
-
+https://stackify.com/asp-net-core-features/
+https://docs.microsoft.com/pt-br/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.0
+Implementing Background Tasks in ASP.NET Core 
 
 borat maio
 david koresh
+
+https://docs.microsoft.com/pt-br/azure/cosmos-db/tutorial-develop-table-dotnet#delete-an-entity
+https://stackoverflow.com/questions/46955538/launchsettings-json-and-appsettings-json-and-web-config
+
+https://www.youtube.com/watch?v=Ed7Bd_JFPm4
+https://stackoverflow.com/questions/38138100/addtransient-addscoped-and-addsingleton-services-differences
+https://visualstudiomagazine.com/articles/2017/07/01/testserver.aspx
+https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-3.0
+
+
+https://www.youtube.com/watch?v=NI9wYuVIYcA (editado) 
+https://www.youtube.com/watch?v=clrtT_4WBAw (editado) 
+
+https://medium.com/tableless/entendendo-tokens-jwt-json-web-token-413c6d1397f6
+https://www.udemy.com/course/design-patterns-csharp-dotnet/
+https://github.com/matsennin/csharp-design-patterns
+
+cqrs .net core
 
 ======= patterns
 
