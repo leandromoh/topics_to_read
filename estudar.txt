@@ -1,3 +1,12 @@
+https://blogs.msdn.microsoft.com/ericlippert/2005/10/26/five-dollar-words-for-programmers-part-one-idempotence/
+https://blogs.msdn.microsoft.com/ericlippert/2005/10/28/five-dollar-words-for-programmers-part-two-orthogonal/
+https://blogs.msdn.microsoft.com/ericlippert/2009/03/23/five-dollar-words-for-programmers-part-three-homoiconic/
+https://blogs.msdn.microsoft.com/ericlippert/2009/03/26/five-dollar-words-for-programmers-part-four-boustrophedonic/
+https://blogs.msdn.microsoft.com/ericlippert/2009/04/17/five-dollar-words-for-programmers-part-five-reification/
+
+https://ericlippert.com/2013/01/24/five-dollar-words-for-programmers-elision/
+https://en.wikipedia.org/wiki/Double_dispatch
+
 https://stackify.com/asp-net-core-features/
 https://docs.microsoft.com/pt-br/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.0
 Implementing Background Tasks in ASP.NET Core 
