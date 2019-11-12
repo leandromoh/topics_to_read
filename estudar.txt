@@ -30,7 +30,27 @@ https://medium.com/tableless/entendendo-tokens-jwt-json-web-token-413c6d1397f6
 https://www.udemy.com/course/design-patterns-csharp-dotnet/
 https://github.com/matsennin/csharp-design-patterns
 
-cqrs .net core
+
+
+======== ambientes .net core
+
+https://www.talkingdotnet.com/launchsetting-json-in-aspnet-5/
+https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/environments?view=aspnetcore-3.0
+https://docs.microsoft.com/pt-br/aspnet/core/getting-started/?view=aspnetcore-3.0&tabs=windows
+
+======= banco de dados
+
+1 https://www.devmedia.com.br/schemas-no-sql-server/24328
+
+======= httpClient 
+
+1 https://contrivedexample.com/2017/07/01/using-httpclient-as-it-was-intended-because-youre-not/
+https://itnext.io/httpclient-may-kill-your-system-be-careful-62b1533ad456
+
+======= Entity Framework
+
+1 http://kerryritter.com/updating-or-replacing-entities-in-entity-framework-6/
+https://medium.com/@hoagsie/youre-all-doing-entity-framework-wrong-ea0c40e20502
 
 ======= patterns
 
@@ -38,8 +58,8 @@ Specification pattern
 
 ======= expression tree
 
-https://blogs.msdn.microsoft.com/charlie/2008/01/31/expression-tree-basics/
-https://docs.microsoft.com/pt-br/dotnet/api/system.linq.expressions.blockexpression?view=netframework-4.8
+1 https://blogs.msdn.microsoft.com/charlie/2008/01/31/expression-tree-basics/
+1 https://docs.microsoft.com/pt-br/dotnet/api/system.linq.expressions.blockexpression?view=netframework-4.8
 
 ======= repository vs dao
 
@@ -59,7 +79,7 @@ https://www.youtube.com/watch?v=oMvwcrPITHM
 https://stackify.com/premature-optimization-evil/
 
 ======= injecao de dependencia
-
+https://www.lambda3.com.br/2009/04/injecao-de-dependencia-ou-service-locator/
 ServiceLocator
 ServiceProvider 
 Containers de injeção de dependencia
@@ -70,42 +90,54 @@ https://adamcod.es/2013/11/25/service-locator-vs-dependency-injection-container.
 https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.shell.serviceprovider?view=visualstudiosdk-2017
 https://medium.com/@ivorobioff/dependency-injection-vs-service-locator-2bb8484c2e20
 
-======= repository
+Existem diversos estilos arquiteturais como a clássica Arquitetura Cebola, Arquitetura Hexagonal proposta pelo Vernon em seu livro Implementing Domain Driven Design ou até mesmo os populares Microservices. Alguns destes estilos inclusive podem fazer uso de patterns como CQRS, Event Sourcing, etc.
 
-https://programmingwithmosh.com/net/common-mistakes-with-the-repository-pattern/
+======= DDD
 
-======= git
-
-https://www.udemy.com/course/git-e-github/
-https://brorlandi.github.io/git-desfazendo-commits
+1 https://www.eduardopires.net.br/2016/08/ddd-nao-e-arquitetura-em-camadas/
+1 https://www.eduardopires.net.br/2016/03/ddd-bounded-context/
+0 http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/
+0 https://medium.com/cwi-software/domain-driven-design-do-in%C3%ADcio-ao-c%C3%B3digo-569b23cb3d47
 
 ======= CQRS
 
-https://martinfowler.com/bliki/CQRS.html
+0 https://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/
+0 https://martinfowler.com/bliki/CQRS.html
+0 https://culttt.com/2015/01/14/command-query-responsibility-segregation-cqrs/
+
+======= repository
+
+1 https://programmingwithmosh.com/net/common-mistakes-with-the-repository-pattern/
+
+======= git
+
+0 https://www.udemy.com/course/git-e-github/
+0 https://brorlandi.github.io/git-desfazendo-commits
 
 ============= ExceptionsForFlowControl
 
-http://wiki.c2.com/?DontUseExceptionsForFlowControl
+1 http://wiki.c2.com/?DontUseExceptionsForFlowControl
 
 ============= c#
 
-https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/
+1 https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/
 
 ============= F#
 
-https://fsharpforfunandprofit.com/posts/fvsc-sum-of-squares/
+0 https://fsharpforfunandprofit.com/posts/fvsc-sum-of-squares/
 
 ======= xunit
 
-https://www.programmingwithwolfgang.com/xunit-getting-started/
-https://xunit.net/docs/shared-context
-https://xunit.net/docs/comparisons
-https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/
+1 https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/
+1 https://www.programmingwithwolfgang.com/xunit-getting-started/
+1 https://xunit.net/docs/shared-context
+0 https://xunit.net/docs/comparisons
+
 
 ======= model-binding
-fromquery vs frombody vs fromroute vs FromUri
-https://stackoverflow.com/questions/35903448/web-api-parameter-binding-snake-case-to-camelcase
-https://docs.microsoft.com/pt-br/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api
+0 fromquery vs frombody vs fromroute vs FromUri
+0 https://stackoverflow.com/questions/35903448/web-api-parameter-binding-snake-case-to-camelcase
+0 https://docs.microsoft.com/pt-br/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api
 ==============================================
 automapper
 MediatR
@@ -113,15 +145,15 @@ fluentAssertions
 
 ========================== mixin
 
-https://en.wikipedia.org/wiki/Mixin
-https://www.tutorialspoint.com/ruby/ruby_modules.htm
+0 https://en.wikipedia.org/wiki/Mixin
+0 https://www.tutorialspoint.com/ruby/ruby_modules.htm
 
 ======================== http
 
-https://restfulapi.net/http-methods/
-https://docs.microsoft.com/pt-br/aspnet/core/web-api/jsonpatch?view=aspnetcore-2.2
-https://tools.ietf.org/html/rfc6902
-https://stackoverflow.com/questions/50215825/web-api-2-implementing-a-patch
+0 https://restfulapi.net/http-methods/
+0 https://docs.microsoft.com/pt-br/aspnet/core/web-api/jsonpatch?view=aspnetcore-2.2
+0 https://tools.ietf.org/html/rfc6902
+0 https://stackoverflow.com/questions/50215825/web-api-2-implementing-a-patch
 
 
 =================== FluentValidation.AspNetCore
