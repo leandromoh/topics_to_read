@@ -30,6 +30,22 @@ https://medium.com/tableless/entendendo-tokens-jwt-json-web-token-413c6d1397f6
 https://www.udemy.com/course/design-patterns-csharp-dotnet/
 https://github.com/matsennin/csharp-design-patterns
 
+https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.0
+https://thomaslevesque.com/2018/03/27/understanding-the-asp-net-core-middleware-pipeline/
+https://dzone.com/articles/an-absolute-beginners-tutorial-on-middleware-in-as
+https://docs.microsoft.com/pt-br/aspnet/web-api/overview/advanced/http-message-handlers
+https://stackoverflow.com/questions/13629684/custom-delegating-handler-specific-to-a-controller-in-asp-net-web-api
+https://stackoverflow.com/questions/38707539/owin-middleware-vs-webapi-delegatinghandler
+David Koresh
+Jim Jones
+https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Arquitetura-Design-Software/dp/8535250298
+https://github.com/dotnet/docs/blob/master/docs/csharp/whats-new/csharp-8.md
+https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md
+https://www.lambda3.com.br/2009/04/injecao-de-dependencia-ou-service-locator/
+https://stackify.com/service-locator-pattern/
+https://johnthiriet.com/cancel-asynchronous-operation-in-csharp/
+https://binary-studio.com/2015/10/23/task-cancellation-in-c-and-things-you-should-know-about-it/
+https://indexoutofrange.com/Don't-do-it-now!-Part-4.-Hangfire-details-dashboard,-retries-and-job-cancellation/
 
 
 ======== ambientes .net core
