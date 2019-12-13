@@ -4,11 +4,15 @@
 Iniciando no ReactJS | Diego Fernandes
 https://www.youtube.com/watch?v=7A4UQGrFU9Q
 
-========== doing
-
-
 Desvendando o Redux na prática | Diego Fernandes
 https://www.youtube.com/watch?v=u99tNt3TZf8
+
+========== doing
+
+TypeScript com ReactJS, Redux e Redux Saga | Diego Fernandes
+https://www.youtube.com/watch?v=OXxul6AvXNs
+
+
 
 ========== to do
 CodeQuinta #1 - Arquitetura Flux com Redux do zero
@@ -22,9 +26,6 @@ https://www.youtube.com/watch?v=3GpRg-PdbEU
 
 React Hooks na prática | Diego Fernandes
 https://www.youtube.com/watch?v=6WB16wZS61c
-
-TypeScript com ReactJS, Redux e Redux Saga | Diego Fernandes
-https://www.youtube.com/watch?v=OXxul6AvXNs
 
 
 CodeQuinta #3 - Async com Redux Saga
