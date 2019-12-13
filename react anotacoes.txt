@@ -1,0 +1,21 @@
+reducer = func chamada pelo redux de forma automatica (em alguns momentos) que retorna o estado (inicial) do programa
+actions => acoes que repassamos pro redux, indicando que a gente precisa manipular o estado de alguma forma 
+
+store = createStore(reducer)
+
+todos elementos que estiverem dentro do componente <provider store={store}>
+
+reducer(estado atual do app, action)
+
+
+connect(f)(component) //react-redux
+
+f =  função que recebe o stado da aplicação e mapeia pro construtor do component 
+
+componentes recebem objecto com dispatch como propriedade func 
+
+dispatch serve para disparar actions pro redux e essas actions serão ouvidas por todos os reducers da nossa aplicação
+
+passamos pro dispatch uma action (objeto que tem a propriedade type com o nome da action + outras propriedades (que queremos atualizar no estado da aplicação)
+
+recuderCombine combina varios reducers, criando uma propriedade para cada estado de reducer no objeto de estado geral
