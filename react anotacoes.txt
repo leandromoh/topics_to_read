@@ -1,21 +1,88 @@
-reducer = func chamada pelo redux de forma automatica (em alguns momentos) que retorna o estado (inicial) do programa
-actions => acoes que repassamos pro redux, indicando que a gente precisa manipular o estado de alguma forma 
 
-store = createStore(reducer)
+https://redux.js.org/basics/basic-tutorial
+https://redux.js.org/advanced/advanced-tutorial
+
+==============================================================================
+
+https://react-redux.js.org/api/connect
+
+It provides its connected component with the pieces of the data it needs from the store, and the functions it can use to dispatch actions to the store.
+
+componentes recebem como parametro 1 objeto que é o merge dos objetos devolvidos por mapStateToProps e mapDispatchToProps
+
+connect(mapStateToProps, mapDispatchToProps)(MyComponent)//react-redux 
+
+==============================================================================
+
+https://redux.js.org/basics/actions
+
+Actions are payloads of information that send data from your application to your store. They are the only source of information for the store. You send them to the store using store.dispatch().
+
+actions => objetos que repassamos pro redux, indicando que precisamos manipular o estado de alguma forma 
+
+actions represent the facts about “what happened”
+
+1 action creators (method) => 2 action (JS plain object with type and other properties) => 3 store.dispatch =>
+
+bound action creator (encapsulda de 1 a 3) = mapDispatchToProps
+
+==============================================================================
+
+https://redux.js.org/basics/reducers
+
+Reducers specify how the application's state changes in response to actions sent to the store. Remember that actions only describe what happened, but don't describe how the application's state changes.
+
+The reducer is a *pure function* that takes the previous state and an action, and returns the next state.
+
+It only computes the next state. It should be completely predictable: calling it with the same inputs many times should produce the same outputs. It shouldn't perform any side effects like API calls or router transitions. These should happen before an action is dispatched.
+
+Redux ships with a combineReducers() helper function, useful for “splitting” the root reducer into separate functions that each manage one branch of the state tree.
+
+(previousState, action) => nextState
+
+==============================================================================
+
+https://redux.js.org/basics/store
+
+The store has the following responsibilities:
+
+# Holds application state;
+# Allows access to state via getState();
+# Allows state to be updated via dispatch(action);
+# Registers listeners via subscribe(listener);
+# Handles unregistering of listeners via the function returned by subscribe(listener).
+
+It's important to note that you'll only have a single store in a Redux application.
+
+const store = createStore(rooReducer)
+
+==============================================================================
+
+https://redux.js.org/basics/data-flow
+
+The data lifecycle in any Redux app follows these 4 steps:
+
+1 You call store.dispatch(action). 
+You can call store.dispatch(action) from anywhere in your app
+2 The Redux store calls the reducer function you gave it.
+The store will pass two arguments to the reducer: the current state tree and the action
+3 The root reducer may combine the output of multiple reducers into a single state tree.
+How you structure the root reducer is completely up to you.
+4 The Redux store saves the complete state tree returned by the root reducer.
+This new tree is now the next state of your app! Every listener registered with store.subscribe(listener) will now be invoked; 
+Now, the UI can be updated to reflect the new state. If you use bindings like React Redux, this is the point at which component.setState(newState) is called.
+
+==============================================================================
 
 todos elementos que estiverem dentro do componente <provider store={store}>
 
 reducer(estado atual do app, action)
 
 
-connect(f)(component) //react-redux
-
-f =  função que recebe o stado da aplicação e mapeia pro construtor do component 
-
-componentes recebem objecto com dispatch como propriedade func 
 
 dispatch serve para disparar actions pro redux e essas actions serão ouvidas por todos os reducers da nossa aplicação
 
-passamos pro dispatch uma action (objeto que tem a propriedade type com o nome da action + outras propriedades (que queremos atualizar no estado da aplicação)
+passamos pro dispatch uma action 
 
 recuderCombine combina varios reducers, criando uma propriedade para cada estado de reducer no objeto de estado geral
+
