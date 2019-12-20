@@ -15,6 +15,11 @@ https://www.youtube.com/watch?v=OXxul6AvXNs
 
 
 ========== to do
+
+https://medium.com/@oieduardorabelo/redux-saga-gerenciando-efeitos-f518a31c744e
+https://medium.com/reactbrasil/iniciando-com-redux-c14ca7b7dcf
+https://pt-br.reactjs.org/docs/hooks-intro.html
+
 CodeQuinta #1 - Arquitetura Flux com Redux do zero
 https://www.youtube.com/watch?v=69e1MoUWE1g
 
