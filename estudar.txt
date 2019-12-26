@@ -163,6 +163,7 @@ Existem diversos estilos arquiteturais como a clássica Arquitetura Cebola, Arqu
 0 fromquery vs frombody vs fromroute vs FromUri
 0 https://stackoverflow.com/questions/35903448/web-api-parameter-binding-snake-case-to-camelcase
 0 https://docs.microsoft.com/pt-br/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api
+0 https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-3.1
 ==============================================
 automapper
 MediatR
