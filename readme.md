@@ -1,44 +1,71 @@
--código/estruturas/framework (85%)
--kubernets/containers (80/20)
--sistemas distribuidos/messageria
--network protocol
-
-
-
-#  F#
-
-- [ ] https://fsharpforfunandprofit.com/posts/let-use-do/
-- [ ] https://docs.microsoft.com/pt-br/dotnet/fsharp/tutorials/asynchronous-and-concurrent-programming/async
+- [ ] código/estruturas/framework
+- [ ] banco de dados
+- [ ] sistemas distribuidos/messageria
+- [ ] redes/network protocol
 
 # Carreira
-- [x] https://www.alura.com.br/dev-em-t
+- [x] Dev em T
+- [ ] Arquiteto de Software
+- [ ] Engenheiro de Software
+
+# Paradigmas de Programação
+- [x] procedural
+- [x] orientado a objeto
+- [x] funcional
+- [x] logico
+- [ ] reativa 
+
+# Programação baixo nivel
+- [x] thread vs task
+- [x] struct vs classes
+- [x] stack vs heap
+- [x] passagem por valor vs passagem por referencia
+- [x] ponteiros
+- [x] garbage collector
+
+# Controle de versão
+- [x] Distribuido vs Centralizado
+- [x] Git
+- [x] Github
+- [ ] Git Flow
+
+# Programming features
+- [x] Higher-Kinded-Types
+- [x] Type classes
+- [x] Discriminated unions
+- [ ] Union & Intersection types
+- [ ] Existential types
+- [ ] Dependent types
 
 # Programming 
+- [x] Inversion of Control
+- [x] Dependency Injection
+- [x] Gang of Four Design Patterns
+- [x] Clean Code
 
-- [ ] higher-kinded-types
-  - [ ] https://medium.com/@jnkrtech/what-is-higher-kinded-polymorphism-6fb2bff183f9
-- [ ] type classes
-- [ ] discriminated unions
-- [ ] union & intersection types
-- [ ] existential types
-- [ ] dependent types
-  - [ ] https://medium.com/background-thread/the-future-of-programming-is-dependent-types-programming-word-of-the-day-fcd5f2634878
+# Testes
+- [x] Unidade
+- [x] Integração
+- [ ] Carga
+- [ ] Estresse
 
-# Docker
+# Principios de programacao
+- [x] SOLID
+- [x] KISS - Keep It Simple, Stupid
+- [x] DRY - Don't Repeat Yourself
+- [x] YAGNI - You Ain't Gonna Need It
+- [ ] SOC - Separation Of Concerns
+- [ ] TAD - Tell Don't Ask
 
-- [x] volumes
-  - [x] https://www.alura.com.br/artigos/criando-volumes-com-docker
-  - [x] https://bernardolankheet.medium.com/03-conceito-geral-de-volumes-no-docker-6d8b08abdc2a
-  - [x] https://spin.atomicobject.com/2019/07/11/docker-volumes-explained/
-- [x] images
-  - [x] https://jfrog.com/knowledge-base/a-beginners-guide-to-understanding-and-building-docker-images/
+# Virtualização de Sistemas
+
+- [x] virtual machine
+- [x] virtual machine vs containers
+- [ ] docker  
 - [ ] docker swarm
 - [ ] docker compose
-- [ ] https://github.com/gomex/docker-para-desenvolvedores
-- [ ] https://github.com/wsargent/docker-cheat-sheet/tree/master/pt-br
-- [ ] https://docker-unleashed.readthedocs.io/
-
-# Kubernetes
+- [ ] kubernetes
+- [ ] openshift
 
 # Finances
 
@@ -59,20 +86,26 @@
 
 # Arquitetura
 
+- [ ] Sistema distribuidos
+- [ ] System Design
 - [ ] Micro Serviços
 - [ ] Event Sourcing
 - [ ] CQRS
+- [ ] Event Sourcing
+- [ ] Multitier architecture
 - [ ] Onion Architecture
 - [ ] Hexagonal Architecture
 - [ ] Lambda Architecture
 - [ ] Behavior Driven Development
 - [ ] Domain-Driven Design
-- [ ] Test Driven Development
+- [x] Test Driven Development
+- [ ] System Design
 
-# Messageria
+# Mensageria
 - [ ] RabbitMQ
 - [ ] ZeroMQ
 - [ ] Kafka
+- [ ] Azure Event Hub
 - [ ] IBM Mq
 
 # Authetication
@@ -80,5 +113,3 @@
 - [ ] OAuth
 - [ ] OpenID
 - [ ] JWT
-
-
