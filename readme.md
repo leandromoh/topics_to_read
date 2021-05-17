@@ -100,6 +100,8 @@
 - [ ] Domain-Driven Design
 - [x] Test Driven Development
 - [ ] System Design
+- [ ] Overengineering 
+- [ ] Integridade conceitual
 
 # Mensageria
 - [ ] RabbitMQ
@@ -113,3 +115,14 @@
 - [ ] OAuth
 - [ ] OpenID
 - [ ] JWT
+
+# Necessidades de um Sistema
+
+- [ ] Performatico
+- [ ] Escalavel
+- [ ] Facil manutenção
+- [ ] Seguro
+- [ ] Bem Testado
+- [ ] Resiliente
+- [ ] Monitoravel
+
