@@ -56,6 +56,7 @@
 - [x] YAGNI - You Ain't Gonna Need It
 - [ ] SOC - Separation Of Concerns
 - [ ] TAD - Tell Don't Ask
+- [ ] PoLA - Principle of Least Astonishment
 
 # Virtualização de Sistemas
 
