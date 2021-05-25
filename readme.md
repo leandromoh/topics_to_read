@@ -21,6 +21,7 @@
 - Git
 - Github
 - Git Flow
+- Trunk Based Release
 
 # Programming features
 - Higher Kinded Types
@@ -29,6 +30,17 @@
 - Union & Intersection types
 - Existential types
 - Dependent types
+
+# Principios de programacao
+- KISS - Keep It Simple, Stupid
+- DRY - Don't Repeat Yourself
+- YAGNI - You Ain't Gonna Need It
+- SOC - Separation Of Concerns
+- TAD - Tell Don't Ask
+- PoLA - Principle of Least Astonishment
+- Técnicas de refatoração - https://refactoring.guru/
+- Maus cheiros (Code Smells) - https://refactoring.guru/
+- SOLID
 
 # Programming 
 - Inversion of Control
@@ -43,25 +55,19 @@
 - Carga
 - Estresse
 
-# Principios de programacao
-- SOLID
-- KISS - Keep It Simple, Stupid
-- DRY - Don't Repeat Yourself
-- YAGNI - You Ain't Gonna Need It
-- SOC - Separation Of Concerns
-- TAD - Tell Don't Ask
-- PoLA - Principle of Least Astonishment
-
 # Virtualização de Sistemas
 - Virtual machine (ex: VirtualBox, Hyper-V, VMware Workstation, etc)
 - Containers (ex: Docker)
 - Container Orchestration (ex: Docker Swarm, Kubernetes, Openshift, Docker Compose, etc)
 
 # Banco de Dados
+- Teorema CAP
+- Modelo Transacional ACID vs BASE
+- Modelo de Indexação: Em Relacional e Não Relacional
+- Analize de Plano de Execução de uma Query
 - SQL (ex: Oracle, Microsoft SQL Server, PostgreSQL, MySQL, etc)
 - NoSQL (ex: MongoDB, ScyllaDB, Redis, Neo4J, etc)
-- ACID
-- Teorema CAP
+
 
 # Arquitetura
 - System Design
@@ -82,12 +88,15 @@
 - Regra 10 de Myers
 
 # Sistemas Distribuidos
-- Mensageria (ex: RabbitMQ, Kafka, Azure Event Hub, etc)
-- Authetication (ex: OAuth, OpenID, JWT)
+- Mensageria (ex: RabbitMQ, Kafka, Azure Event Hub)
+- Authetication: (ex: OAuth2, OpenID, SAML, JWT)
+- Authorization: RBAC Model, ACXML, Identity Server
+- 12 Factors (https://12factor.net/pt_br/)
 
 # Redes
 - Modelo OSI
-- Protocolos (ex: HTTP, SFTP, TCP, UDP, etc)
+- Protocolos 
+  - TCP, UDP, SFTP, HTTP, HTTP 2, QUIC (Quick UDP Internet Connections), AMQP.
 
 # Cloud
 - IaaS - Infrastructure as a Service
