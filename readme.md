@@ -74,6 +74,7 @@
 - Lambda Architecture
 - BDD - Behavior Driven Development
 - DDD - Domain Driven Design
+- DDD - Data Driven Development
 - TDD - Test Driven Development
 
 # Engenharia de Software
