@@ -61,6 +61,7 @@
 - Container Orchestration (ex: Docker Swarm, Kubernetes, Openshift, Docker Compose, etc)
 
 # Banco de Dados
+- POLP - Principle of Least Privilege
 - Teorema CAP
 - Modelo Transacional ACID vs BASE
 - Modelo de Indexação: Em Relacional e Não Relacional
