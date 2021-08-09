@@ -47,6 +47,11 @@
 - Dependency Injection
 - Gang of Four Design Patterns
 - Clean Code
+- Asynchronous 
+- Multithreading
+- Concurrent
+- Parallelism
+- Thread Safe Code
 
 # Testes
 - Unidade
@@ -69,9 +74,9 @@
 - SQL (ex: Oracle, Microsoft SQL Server, PostgreSQL, MySQL, etc)
 - NoSQL (ex: MongoDB, ScyllaDB, Redis, Neo4J, etc)
 
-
 # Arquitetura
 - System Design
+- Actor model
 - Micro Serviços
 - Event Sourcing
 - CQRS
