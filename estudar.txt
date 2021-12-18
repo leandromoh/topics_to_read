@@ -4,30 +4,10 @@ https://blogs.msdn.microsoft.com/ericlippert/2009/03/23/five-dollar-words-for-pr
 https://blogs.msdn.microsoft.com/ericlippert/2009/03/26/five-dollar-words-for-programmers-part-four-boustrophedonic/
 https://blogs.msdn.microsoft.com/ericlippert/2009/04/17/five-dollar-words-for-programmers-part-five-reification/
 
-https://ericlippert.com/2013/01/24/five-dollar-words-for-programmers-elision/
-https://en.wikipedia.org/wiki/Double_dispatch
 
-https://stackify.com/asp-net-core-features/
-https://docs.microsoft.com/pt-br/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.0
-Implementing Background Tasks in ASP.NET Core 
-
-borat maio
-david koresh
-
-=============== asp.net ===============
-https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/host/web-host?view=aspnetcore-3.1
-https://docs.microsoft.com/pt-br/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-3.1
-=======================================
-
-https://docs.microsoft.com/pt-br/aspnet/core/host-and-deploy/health-checks?view=aspnetcore-3.0
-https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.0
-https://www.talkingdotnet.com/app-use-vs-app-run-asp-net-core-middleware/
-
-https://docs.microsoft.com/pt-br/azure/cosmos-db/tutorial-develop-table-dotnet#delete-an-entity
 https://stackoverflow.com/questions/46955538/launchsettings-json-and-appsettings-json-and-web-config
 
 https://www.youtube.com/watch?v=Ed7Bd_JFPm4
-https://stackoverflow.com/questions/38138100/addtransient-addscoped-and-addsingleton-services-differences
 https://visualstudiomagazine.com/articles/2017/07/01/testserver.aspx
 https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-3.0
 
@@ -36,8 +16,8 @@ https://www.youtube.com/watch?v=NI9wYuVIYcA (editado)
 https://www.youtube.com/watch?v=clrtT_4WBAw (editado) 
 
 https://medium.com/tableless/entendendo-tokens-jwt-json-web-token-413c6d1397f6
-https://www.udemy.com/course/design-patterns-csharp-dotnet/
-https://github.com/matsennin/csharp-design-patterns
+
+Regra 10 de Myers
 
 https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.0
 https://thomaslevesque.com/2018/03/27/understanding-the-asp-net-core-middleware-pipeline/
@@ -45,10 +25,9 @@ https://dzone.com/articles/an-absolute-beginners-tutorial-on-middleware-in-as
 https://docs.microsoft.com/pt-br/aspnet/web-api/overview/advanced/http-message-handlers
 https://stackoverflow.com/questions/13629684/custom-delegating-handler-specific-to-a-controller-in-asp-net-web-api
 https://stackoverflow.com/questions/38707539/owin-middleware-vs-webapi-delegatinghandler
-David Koresh
-Jim Jones
+
 https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Arquitetura-Design-Software/dp/8535250298
-https://github.com/dotnet/docs/blob/master/docs/csharp/whats-new/csharp-8.md
+
 https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md
 https://www.lambda3.com.br/2009/04/injecao-de-dependencia-ou-service-locator/
 https://stackify.com/service-locator-pattern/
@@ -72,11 +51,6 @@ https://docs.microsoft.com/pt-br/aspnet/core/getting-started/?view=aspnetcore-3.
 1 https://contrivedexample.com/2017/07/01/using-httpclient-as-it-was-intended-because-youre-not/
 https://itnext.io/httpclient-may-kill-your-system-be-careful-62b1533ad456
 
-======= Entity Framework
-
-1 http://kerryritter.com/updating-or-replacing-entities-in-entity-framework-6/
-https://medium.com/@hoagsie/youre-all-doing-entity-framework-wrong-ea0c40e20502
-
 ======= patterns
 
 Specification pattern
@@ -96,8 +70,6 @@ Specification pattern
 
 ======= docker
 
-https://docs.docker.com/get-started/
-
 ======= programador melhor
 
 https://www.youtube.com/watch?v=oMvwcrPITHM
@@ -115,59 +87,17 @@ https://adamcod.es/2013/11/25/service-locator-vs-dependency-injection-container.
 https://docs.microsoft.com/en-us/dotnet/api/microsoft.visualstudio.shell.serviceprovider?view=visualstudiosdk-2017
 https://medium.com/@ivorobioff/dependency-injection-vs-service-locator-2bb8484c2e20
 
-Existem diversos estilos arquiteturais como a clássica Arquitetura Cebola, Arquitetura Hexagonal proposta pelo Vernon em seu livro Implementing Domain Driven Design ou até mesmo os populares Microservices. Alguns destes estilos inclusive podem fazer uso de patterns como CQRS, Event Sourcing, etc.
-
-======= DDD
-
-1 https://www.eduardopires.net.br/2016/08/ddd-nao-e-arquitetura-em-camadas/
-1 https://www.eduardopires.net.br/2016/03/ddd-bounded-context/
-0 http://www.agileandart.com/2010/07/16/ddd-introducao-a-domain-driven-design/
-0 https://medium.com/cwi-software/domain-driven-design-do-in%C3%ADcio-ao-c%C3%B3digo-569b23cb3d47
-
-======= CQRS
-
-0 https://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/
-0 https://martinfowler.com/bliki/CQRS.html
-0 https://culttt.com/2015/01/14/command-query-responsibility-segregation-cqrs/
 
 ======= repository
 
 1 https://programmingwithmosh.com/net/common-mistakes-with-the-repository-pattern/
-
-======= git
-
-0 https://www.udemy.com/course/git-e-github/
-0 https://brorlandi.github.io/git-desfazendo-commits
 
 ============= ExceptionsForFlowControl
 
 1 http://wiki.c2.com/?DontUseExceptionsForFlowControl
 
 ============= c#
-
-1 https://www.strathweb.com/2018/01/easy-way-to-create-a-c-lambda-expression-from-a-string-with-roslyn/
-
-============= F#
-
-0 https://fsharpforfunandprofit.com/posts/fvsc-sum-of-squares/
-
-======= xunit
-
-1 https://andrewlock.net/creating-parameterised-tests-in-xunit-with-inlinedata-classdata-and-memberdata/
-1 https://www.programmingwithwolfgang.com/xunit-getting-started/
-1 https://xunit.net/docs/shared-context
-0 https://xunit.net/docs/comparisons
-
-
-======= model-binding
-0 fromquery vs frombody vs fromroute vs FromUri
-0 https://stackoverflow.com/questions/35903448/web-api-parameter-binding-snake-case-to-camelcase
-0 https://docs.microsoft.com/pt-br/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api
-0 https://docs.microsoft.com/en-us/aspnet/core/mvc/models/model-binding?view=aspnetcore-3.1
-==============================================
-automapper
-MediatR
-fluentAssertions
+O silêncio dos homens | Documentário completo
 
 ========================== mixin
 
@@ -181,12 +111,6 @@ fluentAssertions
 0 https://tools.ietf.org/html/rfc6902
 0 https://stackoverflow.com/questions/50215825/web-api-2-implementing-a-patch
 
-
-=================== FluentValidation.AspNetCore
-
-https://fluentvalidation.net/aspnet#clientside-validation
-https://fluentassertions.com/tips/
-
 ================ indice sql
 
 https://www.youtube.com/watch?v=NI9wYuVIYcA (editado) 
@@ -195,4 +119,244 @@ https://www.youtube.com/watch?v=clrtT_4WBAw (editado)
 ================ aleatorios 
 
 https://docs.microsoft.com/pt-br/aspnet/core/web-api/jsonpatch?view=aspnetcore-2.2
-https://link.medium.com/T7qjXhfcXZ
+
+
+=================================================================================================================================================
+
+
+TUNING
+https://www.tiespecialistas.com.br/tuning-o-que-e-isso/
+
+Network File System VS Distributed File System
+
+recompra
+cancelamento
+cessão
+ccb
+
+=========================================
+O que é Failover e como funciona
+
+=========================================
+
+
+https://arquiteturadesoftware.online/fundamentos-para-arquitetura-de-sistemas-escalaveis-capitulo-11-v-1-0/
+
+https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot
+
+https://github.com/ThreeMammals/Ocelot
+
+API gateway pattern
+
+
+#lider
+-estrutura de codigo/code review
+-gestão de pessoas 1x1
+-recrutamento 
+-plataforma
+
+-pra que serve?
+-container teorica
+-volume mount
+-network
+-docker swarm
+
+3) migração azure AD
+
+=========================================
+
+event hub 
+- https://portal.azure.com/#blade/HubsExtension/BrowseResource/resourceType/Microsoft.EventHub%2Fnamespaces
+- https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas#common-limits-for-all-tiers
+- https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability
+- https://www.confluent.io/blog/configure-kafka-to-minimize-latency/
+
+
+hardening
+
+GitFlow VS Trunk-Based-Development
+https://medium.com/@vafrcor2009/gitflow-vs-trunk-based-development-3beff578030b
+https://www.toptal.com/software/trunk-based-development-git-flow
+
+CHAOS ENGINEERING
+https://principlesofchaos.org/
+https://medium.com/stackspacearena/chaos-engineering-and-its-evolution-d9bd2deee19f
+
+✔ https://blog.logrocket.com/introducing-the-rust-borrow-checker/
+
+https://www.ibccoaching.com.br/portal/como-funciona-o-modelo-de-aprendizagem-70-20-10-nas-empresas/
+https://andragogiabrasil.com.br/metodo-702010-learning-model/
+
+https://folhadirigida.com.br/mais/noticias/especiais/sexy-canvas
+
+https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+========================================================
+
+Designing Data Intensive Apps — Um resumo
+https://brenocferreira.medium.com/designing-data-intensive-apps-um-resumo-a97e47c29372
+
+
+========================================================
+ banco de dados
+========================================================
+
+curso de mongo gratis e oficial
+https://university.mongodb.com/courses/catalog?focus=Developer%20Courses
+
+ReplicaSet, Sharding, Transações e Jounaling no MongoDB.
+✔https://waldyrfelix.com.br/4-coisas-essenciais-que-o-arquiteto-de-software-precisa-saber-sobre-o-mongodb-aed20fee9596
+
+O que é sharding e por que é importante?
+✔https://qastack.com.br/programming/992988/what-is-sharding-and-why-is-it-important
+
+indexing 
+https://www.mongodb.com/blog/post/performance-best-practices-indexing
+
+query plan
+https://docs.mongodb.com/manual/core/query-plans/#query-plans-query-optimization
+https://docs.mongodb.com/manual/reference/explain-results/
+https://docs.mongodb.com/manual/tutorial/analyze-query-plan/
+
+
+
+Sharding No MongoDB - Você conhece este recurso?
+https://cointelegraph.com.br/explained/sharding-explained
+http://db4beginners.com/blog/transacoes-distribuidas-mongodb-4-2/
+http://db4beginners.com/blog/sharding-no-mongodb/
+
+mongo TTL
+
+single point of failure
+
+linked server
+https://imasters.com.br/data/linked-server-pra-que-serve-e-quando-utilizar
+
+hint mongodb
+
+Covered Indexes vs. Clustered Fractal Tree Indexes
+https://www.percona.com/blog/2012/09/06/mongodb-index-shootout-covered-indexes-vs-clustered-fractal-tree-indexes/
+
+equality sort range rule - mongodb
+https://www.alexbevi.com/blog/2020/05/16/optimizing-mongodb-compound-indexes-the-equality-sort-range-esr-rule/
+
+Performance Best Practices
+https://www.mongodb.com/blog/post/performance-best-practices-indexing
+https://docs.mongodb.com/manual/indexes/
+
+Optimizing MongoDB Compound Indexes
+
+REINDEX
+https://www.postgresql.org/docs/10/sql-reindex.html#:~:text=REINDEX%20rebuilds%20an%20index%20using,no%20longer%20contains%20valid%20data.&text=Such%20indexes%20are%20useless%20but,use%20REINDEX%20to%20rebuild%20them.
+https://docs.microsoft.com/en-us/sql/relational-databases/indexes/reorganize-and-rebuild-indexes?redirectedfrom=MSDN&view=sql-server-ver15
+https://help.marklogic.com/knowledgebase/article/View/18/0/how-reindexing-works-and-its-impact-on-performance
+
+===========================================================
+
+
+
+arquivo hpa -> kubernetes horizontal pod autoscaler
+diz qual o minimo e maximo de pods pode ter
+
+readness probe -> inicial e periodica -> esta apto a receber requisições?
+
+liveness probe -> não inicial e periodica -> está saudavel? se não, restar app
+
+
+===========================================================
+Esqueça Metodologias "Ágeis" | [Rated R]
+https://www.youtube.com/watch?v=xjjX3R2WuoM
+Guia DEFINITIVO de Aprendendo a Aprender | A maior BRONCA da sua vida [RATED R]
+https://www.youtube.com/watch?v=oUPaJxk6TZ0
+
+GOTO 2019 • Clean Architecture with ASP.NET Core 3.0 • Jason Taylor
+https://www.youtube.com/watch?v=dK4Yb6-LxAk
+
+
+https://github.com/dotnet/runtime/blob/main/src/libraries/System.Private.CoreLib/src/System/String.Manipulation.cs
+https://github.com/Cysharp/ZString/blob/a56ac542753eae6d956c4fc8aaf715cd9f680b79/src/ZString.Unity/Assets/Scripts/ZString/Utf16ValueStringBuilder.cs#L373
+
+
+https://github.com/dotnet/runtime/blob/94f3355d90d8b5db1848957351a6b3585dee13a4/src/libraries/Microsoft.VisualBasic.Core/tests/StringsTests.cs#L796
+
+
+
+
+================================
+
+
+https://stonepayments.atlassian.net/wiki/spaces/TESOU/pages/2806186698/Proposta+de+Solu+o+Concorr+ncia+entre+Pods+da+Discount+na+Gera+o+dos+Arquivos
+
+JWT
+
+https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-auth-code-flow 
+
+https://www.e-trust.com.br/o-que-e-sso-ou-single-sign-on/
+
+https://www.haselt.com/blog/refactoring-a-feature-envy-code
+
+https://www.youtube.com/watch?v=PHe0bXAIuk0
+
+https://github.com/leandromoh/topics_to_read/
+Você19:39
+https://pt.wikipedia.org/wiki/Interface_de_fun%C3%A7%C3%A3o_externa
+Rodrigo Couto - Stone20:06
+https://www.algoexpert.io/
+Rodrigo Couto - Stone21:09
+https://www.italki.com/
+https://www.cambly.com/english?lang=pt&lang=pt
+
+=============================
+
+https://stonepgto.slack.com/archives/C01C99SD3T9/p1621870305011800?thread_ts=1620933191.014400&cid=C01C99SD3T9
+
+=============================
+
+m220student / pass123
+
+mongodb+srv://m220student:pass123@mflix.ji6sg.mongodb.net/sample_mflix
+
+=============================
+chris richardson
+sam newman
+https://www.youtube.com/watch?v=PFQnNFe27kU
+https://www.youtube.com/watch?v=GWgRw5jiYy0
+https://www.youtube.com/watch?v=oBmysGEpa1I
+https://www.youtube.com/watch?v=AYIYrYsF8dE
+https://www.youtube.com/watch?v=O2XwxzAoFDw
+https://www.youtube.com/watch?v=fPlgoTLJh38
+https://www.youtube.com/watch?v=ucHjyb6jv08
+==============================
+
+
+
+fanout pattern
+Accountability
+outbox pattern c#
+https://www.cloudamqp.com/blog/what-is-a-rabbitmq-vhost.html
+
+
+
+- https://www.xplenty.com/blog/the-sql-vs-nosql-difference/
+- https://sirobotica.wordpress.com/2014/10/23/nosql-o-que-e-vantagens-e-limitacoes/
+- https://medium.com/permalink-univesp/nosql-o-que-s%C3%A3o-onde-habitam-do-que-se-alimentam-2ccd4cc39571
+
+
+- system design
+https://gist.github.com/vasanthk/485d1c25737e8e72759f
+
+==============================
+
+TODO
+
+
+
+Links de como a cardinalidade dos campos afetam a performance de índices no mongo:
+https://stackoverflow.com/questions/33545339/how-does-the-order-of-compound-indexes-matter-in-mongodb-performance-wise
+https://docs.mongodb.com/manual/core/index-compound/#prefixes
+
+===================
+
+======================
+
+https://stackoverflow.com/questions/56609607/mongodb-strange-behaviour-of-sort-with-pagination-leading-to-duplicates
+https://jira.mongodb.org/browse/SERVER-28195
