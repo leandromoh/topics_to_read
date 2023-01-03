@@ -14,22 +14,28 @@
 - Struct vs Classes (value types vs reference types)
 - Stack vs Heap
 - Pointers
-- GC - Garbage Collector
+- Garbage Collector (GC)
+
+# Analise de Algoritmos
+- Complexidade Assintótica
+- Complexidade ciclomática
+- Big O Notation
 
 # Controle de versão
 - Distribuido vs Centralizado
-- Git
 - Github
-- Git Flow
-- Trunk Based Release
+- Git
+  - Git Flow
+  - Trunk Based Release
 
-# Programming features
-- Higher Kinded Types
-- Type classes
-- Discriminated unions
-- Union & Intersection types
-- Existential types
-- Dependent types
+# Metodo(logia) 
+- Kanban
+- XP
+- Scrum
+- Lean thinking
+- Pomodoro
+- Pair Programming
+- Code Review
 
 # Principios de programacao
 - KISS - Keep It Simple, Stupid
@@ -42,10 +48,24 @@
 - Maus cheiros (Code Smells) - https://refactoring.guru/
 - SOLID
 
+# Patterns
+- Strangler Pattern
+- Event Sourcing Pattern
+- Outbox Pattern
+- Saga Pattern
+
+# File Format (data interchange)
+- YAML 
+- JSON
+- CSV
+- XML
+- Fixed Length Files
+
 # Programming 
-- Inversion of Control
-- Dependency Injection
-- Gang of Four Design Patterns
+- Inversion of Control (IoC)
+- Dependency Injection (DI)
+- Gang of Four (GoF) Design Patterns
+- GRASP (object-oriented design)
 - Clean Code
 - Asynchronous 
 - Multithreading
@@ -57,13 +77,18 @@
 - Unidade
 - Integração
 - Funcionalidade
-- Carga
-- Estresse
+- Performance
+  - Carga
+  - Estresse
+  - etc
 
-# Virtualização de Sistemas
+# Infra
 - Virtual machine (ex: VirtualBox, Hyper-V, VMware Workstation, etc)
 - Containers (ex: Docker)
 - Container Orchestration (ex: Docker Swarm, Kubernetes, Openshift, Docker Compose, etc)
+- Round-robin
+- Load Balancer
+- Service Discovery
 
 # Banco de Dados
 - POLP - Principle of Least Privilege
@@ -73,32 +98,47 @@
 - Analize de Plano de Execução de uma Query
 - SQL (ex: Oracle, Microsoft SQL Server, PostgreSQL, MySQL, etc)
 - NoSQL (ex: MongoDB, ScyllaDB, Redis, Neo4J, etc)
+- Cache (ex: Redis)
 
 # Arquitetura
 - System Design
 - Actor model
-- Micro Serviços
-- Event Sourcing
-- CQRS
+- Microsservices Architecture
+- Monolithic Architecture
+- Event-driven Architecture
+- CQRS Command Query Responsibility Segregation
 - Multitier Architecture
 - Onion Architecture
+- Clean Architecture
 - Hexagonal Architecture
 - Lambda Architecture
 - BDD - Behavior Driven Development
 - DDD - Domain Driven Design
 - DDD - Data Driven Development
 - TDD - Test Driven Development
+- MVC - Model-View-Controller
+- MVVM - Model-View-Viewmodel
+- Single Tenant
+- Multi Tenant
 
 # Engenharia de Software
 - Overengineering 
 - Integridade conceitual
 - Regra 10 de Myers
+- Pareto principle
+- Parkinson's law
 
 # Sistemas Distribuidos
 - Mensageria (ex: RabbitMQ, Kafka, Azure Event Hub)
 - Authetication: (ex: OAuth2, OpenID, SAML, JWT)
 - Authorization: RBAC Model, ACXML, Identity Server
 - 12 Factors (https://12factor.net/pt_br/)
+- Web Api
+- WebService RESTful  
+- WebService SOAP
+- API Gateway (ex: Ocelot)
+- Reverse Proxy Server (ex: YARP)
+- Backends for Frontend
 
 # Redes
 - Modelo OSI
@@ -109,12 +149,42 @@
 - IaaS - Infrastructure as a Service
 - PaaS - Platform as a Service
 - SaaS - Software as a Service
+- Azure DevOps
+- Azure Functions
+- Azure Service Bus
+- Azure Pipelines
+
+# Monitoramento
+- Elastic Search
+- Splunk
+- New Relic
 
 # Necessidades de um Sistema
 - Performatico
 - Escalavel
-- Facil manutenção
+- Manutenível (Facil manutenção)
 - Seguro
 - Bem Testado
 - Resiliente
 - Monitoravel
+
+# .NET 
+
+.NET 
+- Linq
+- MoreLinq
+- Reactive Extensions (Rx) for .NET
+- Polly
+- Hangfire – Background jobs and workers
+- FluentValidation
+- Fluent Assertions
+- AutoMapper
+- Moq
+- AutoFixture
+- BenchmarkDotNet
+- xUnit
+- ADO .NET
+- Entity Framework
+- Dapper 
+- POCO / POCO
+- Background / Hosted Service 
