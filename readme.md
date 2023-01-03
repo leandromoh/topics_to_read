@@ -169,22 +169,25 @@
 - Monitoravel
 
 # .NET 
-
-.NET 
-- Linq
-- MoreLinq
-- Reactive Extensions (Rx) for .NET
-- Polly
-- Hangfire – Background jobs and workers
-- FluentValidation
-- Fluent Assertions
-- AutoMapper
-- Moq
-- AutoFixture
-- BenchmarkDotNet
-- xUnit
-- ADO .NET
-- Entity Framework
-- Dapper 
+- Fluent Data Query
+  - Linq
+  - MoreLinq
+  - Reactive Extensions (Rx)
+- Background jobs and workers
+  - Hangfire 
+  - Background / Hosted Service 
+- Tests
+  - AutoFixture
+  - xUnit
+  - Fluent Assertions
+  - Moq
+- Performance
+  - BenchmarkDotNet
+- DataBase
+  - ADO .NET
+  - Entity Framework
+  - Dapper 
 - POCO / POCO
-- Background / Hosted Service 
+- FluentValidation
+- Polly
+- AutoMapper
