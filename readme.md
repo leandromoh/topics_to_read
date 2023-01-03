@@ -95,6 +95,7 @@
 - Teorema CAP
 - Modelo Transacional ACID vs BASE
 - Modelo de Indexação: Em Relacional e Não Relacional
+- Sharding
 - Analize de Plano de Execução de uma Query
 - SQL (ex: Oracle, Microsoft SQL Server, PostgreSQL, MySQL, etc)
 - NoSQL (ex: MongoDB, ScyllaDB, Redis, Neo4J, etc)
