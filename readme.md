@@ -169,6 +169,10 @@
 - Monitoravel
 
 # .NET 
+- ASP.NET Core
+  - Middlewares
+  - Filters
+- Host Builders (ex: WebApplicationBuilder, IHostBuilder, etc)  
 - Fluent Data Query
   - Linq
   - MoreLinq
@@ -187,7 +191,6 @@
   - ADO .NET
   - Entity Framework
   - Dapper 
-- POCO / POCO
 - FluentValidation
 - Polly
 - AutoMapper
