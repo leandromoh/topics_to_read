@@ -1,9 +1,66 @@
+https://brenocferreira.medium.com/designing-data-intensive-apps-um-resumo-a97e47c29372
+
+https://microservices.io
+
+https://www.youtube.com/watch?v=gfh-VCTwMw8
+https://www.youtube.com/watch?v=9I9GdSQ1bbM&t=36s
+https://www.youtube.com/watch?v=O4NlcvXvsbI
+https://www.youtube.com/watch?v=r8mtXJh3hzM
+https://www.youtube.com/watch?v=8pTEmbeENF4
+
+https://codamos.com.br/programacao-por-coincidencia.html
+https://www.avast.com/pt-br/c-what-is-a-reverse-proxy
+https://king.host/blog/2018/06/proxy-reverso-o-que-e-e-como-usar/
+-----------------
+oq eu preciso melhorar, de acordo com Couto
+conhecer mais tesouraria/times
+escalabilidade/disponibilidade/resiliencia
+
+============================================
+
 https://blogs.msdn.microsoft.com/ericlippert/2005/10/26/five-dollar-words-for-programmers-part-one-idempotence/
 https://blogs.msdn.microsoft.com/ericlippert/2005/10/28/five-dollar-words-for-programmers-part-two-orthogonal/
 https://blogs.msdn.microsoft.com/ericlippert/2009/03/23/five-dollar-words-for-programmers-part-three-homoiconic/
 https://blogs.msdn.microsoft.com/ericlippert/2009/03/26/five-dollar-words-for-programmers-part-four-boustrophedonic/
 https://blogs.msdn.microsoft.com/ericlippert/2009/04/17/five-dollar-words-for-programmers-part-five-reification/
 
+https://diogommartins.wordpress.com/2017/04/07/concorrencia-e-paralelismo-threads-multiplos-processos-e-asyncio-parte-1/
+https://www.akitaonrails.com/2019/03/13/akitando-43-concorrencia-e-paralelismo-parte-1-entendendo-back-end-para-iniciantes-parte-3
+https://www.treinaweb.com.br/blog/concorrencia-paralelismo-processos-threads-programacao-sincrona-e-assincrona
+https://aprendagolang.com.br/2021/11/12/entenda-a-diferenca-entre-concorrencia-e-paralelismo/
+
+modelo de mensageria
+dead letter queue rabbitmq
+
+https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+Rodrigo Couto - Stone10:58
+https://www.mongodb.com/docs/manual/core/sharding-choose-a-shard-key/
+Rodrigo Couto - Stone11:01
+https://www.mongodb.com/docs/manual/core/sharding-shard-a-collection/
+https://www.mongodb.com/docs/manual/sharding/n
+
+Simplicity is the ultimate sophistication
+
+oq faz uma tesouraria?
+
+https://www.fabiosilvalima.net/3-dicas-reduzir-cyclomatic-complexity/
+https://www.macoratti.net/20/04/vs_codemetr1.htm
+https://brenocferreira.medium.com/designing-data-intensive-apps-um-resumo-a97e47c29372
+https://www.mongodb.com/docs/atlas/online-archive/manage-online-archive/
+https://www.youtube.com/watch?v=r8mtXJh3hzM
+https://medium.com/@devbrito91/mensageria-1330c6032049
+
+The Art of Code by Dylan Beattie
+https://www.youtube.com/watch?v=2jyPBjlKhtk
+
+https://medium.com/trainingcenter/apache-kafka-codifica%C3%A7%C3%A3o-na-pratica-9c6a4142a08f
+https://medium.com/trainingcenter/apache-kafka-838882261e83
+https://pt.slideshare.net/helderdarocha/15-padres-de-mensageria-para-integrao-de-sistemas
+https://br.sensedia.com/post/what-is-messaging
+https://medium.com/@devbrito91/mensageria-1330c6032049
+
+https://adnanrafiq.com/blog/complete-guide-to-hosted-or-background-or-worker-services-in-dot-net-using-csharp/
 
 https://stackoverflow.com/questions/46955538/launchsettings-json-and-appsettings-json-and-web-config
 
@@ -17,7 +74,6 @@ https://www.youtube.com/watch?v=clrtT_4WBAw (editado)
 
 https://medium.com/tableless/entendendo-tokens-jwt-json-web-token-413c6d1397f6
 
-Regra 10 de Myers
 
 https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.0
 https://thomaslevesque.com/2018/03/27/understanding-the-asp-net-core-middleware-pipeline/
@@ -28,7 +84,7 @@ https://stackoverflow.com/questions/38707539/owin-middleware-vs-webapi-delegatin
 
 https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Arquitetura-Design-Software/dp/8535250298
 
-https://github.com/dotnet/csharplang/blob/master/Language-Version-History.md
+
 https://www.lambda3.com.br/2009/04/injecao-de-dependencia-ou-service-locator/
 https://stackify.com/service-locator-pattern/
 https://johnthiriet.com/cancel-asynchronous-operation-in-csharp/
